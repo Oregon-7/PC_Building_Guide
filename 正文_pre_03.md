@@ -78,7 +78,7 @@ https://blog.csdn.net/jiangyu1013/article/details/80649774
 
 ### CPU
 
-观察上图（来自华硕 PRIME H610M-A 电子说明书）中标签 1 指示位置，PRIME H610M-A 具备一个 LGA1700 处理器插槽。在主板说明书（包括各大电商平台的主板详情页）中可以发现，该主板可以安装的处理器为使用 LGA1700 插槽的 12 及 13 代 Intel Core™ 处理器，包含 Intel Core™ i3 12100(F), Intel Core™ i5 12400(F), Intel Core™ i5 12490F, Intel Core™ i3 13100(F), Intel Core™ i5 13400(F)等，具体可参考 Intel 官网 www.intel.cn 的规格描述
+观察上图（来自华硕 PRIME H610M-A 电子说明书）中标签 1 指示位置，PRIME H610M-A 具备一个 LGA1700 处理器插槽。在主板说明书（包括各大电商平台的主板详情页）中可以发现，该主板可以安装的处理器为使用 LGA1700 插槽的 12 及 13 代 Intel Core™ 处理器，包含 Intel Core™ i3-12100(F), Intel Core™ i5-12400(F), Intel Core™ i5-12490F, Intel Core™ i3-13100(F), Intel Core™ i5-13400(F)等，具体可参考 Intel 官网 www.intel.cn 的规格描述
 
 该插槽上安装的 CPU (Central Processing Unit)是整台电脑的核心部件，是计算机系统的整数/浮点运算和控制核心，起到处理指令，运行可执行程序，与其他部件通信，通过自带的时钟发生器命令其他硬件的正常工作，以及对计算机运行过程中出现的异常情况做出中断反馈的作用。非常符合认知地，在目前，CPU 的性能是影响整台电脑计算性能的重中之重。CPU 的性能是可以根据所处系列与后缀判断的。目前为消费级市场供应 CPU 的厂商主要有两家：Intel 与 AMD。无论哪一方，其旗下消费级 CPU 系列（Intel 的 Core™ 系列以及 AMD 的 Ryzen™ 系列）在同一代中均遵循后缀越大则核心越多（当然也可以核心数目与前者相等）、综合性能越高的特点。例如，同为 14 代酷睿处理器的 Intel Core™ i5-14600K 与 Intel Core™ i9-14900K 相比，后者的性能必定高于前者。同时，CPU 的型号后缀也可以给出一些 CPU 参数上的说明，例如 Intel 的 CPU 中，后缀带 K 代表具有超频能力，带 F 代表没有核显，带 C 代表核显强化，带 T 代表能耗表现强化，带 KS 代表特挑超频体质，带 X 代表是为高端工作站设计的多核心 CPU；AMD 的 Ryzen™ CPU 中，后缀带 X 代表相比不带 X 的同型号处理器是定位高一级的版本，带 U 代表核显强化
 
